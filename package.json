@@ -1,0 +1,22 @@
+{
+  "name": "1_modulo_lista_exercicios_1",
+  "version": "1.0.0",
+  "description": "A simple exercise list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GustavoCostaBR/Mais-pra-ti--Lista-de-Exerc-cios-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoCostaBR/Mais-pra-ti--Lista-de-Exerc-cios-1/issues"
+  },
+  "homepage": "https://github.com/GustavoCostaBR/Mais-pra-ti--Lista-de-Exerc-cios-1#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

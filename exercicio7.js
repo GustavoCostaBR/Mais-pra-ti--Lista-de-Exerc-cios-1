@@ -12,7 +12,7 @@ let valor;
 const unitario1 = 0.3;
 const unitario2 = 0.25;
 
-
+// Fazendo os tratamentos
 if ((numeroMacas >= 12)){
 	valor = unitario2 * numeroMacas;
 }

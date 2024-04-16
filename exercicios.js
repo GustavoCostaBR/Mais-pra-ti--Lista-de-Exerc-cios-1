@@ -1,4 +1,4 @@
-// Exercicio 1
+// Exercicio 1: Leia as instruções no arquivo README.md para execução de cada exercicio;
 /*
 const prompt = require('prompt-sync')();
 

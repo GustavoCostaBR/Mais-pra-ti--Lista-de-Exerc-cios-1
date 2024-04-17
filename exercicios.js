@@ -124,7 +124,16 @@ else if (ex3Ligado) {
 	} while (!/^-?\d+$/.test(texto));
 	let numero3 = parseInt(texto);
 
-	let numero4 = numero1 + numero2 + numero3;
+	texto = "abacate";
+
+	// Conferindo se é de fato um número inteiro
+	do {
+		texto = prompt("Informe um quarto número inteiro válido: ");
+		// console.log(texto);
+	} while (!/^-?\d+$/.test(texto));
+	let numero4 = parseInt(texto);
+
+	numero4 = numero1 + numero2 + numero3;
 	numero1 += 25;
 	numero2 *= 3;
 	// Aqui não fiz questão de manter como um inteiro pq não foi expressamente solicitado isso no enunciado

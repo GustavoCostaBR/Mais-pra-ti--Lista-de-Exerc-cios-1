@@ -26,79 +26,79 @@ Rodar o exercício;
 Desfazer mudanças para o próximo exercício;
 
 Exercício 4:
-Posição: linhas 141 a 170;
+Posição: linhas 150 a 179;
 Intrução: mudar a const ex4Ligado para true na linha 5;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;
 
 Exercício 5:
-Posição: linhas 172 a 201;
+Posição: linhas 181 a 210;
 Intrução: mudar a const ex5Ligado para true na linha 6;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;
 
 Exercício 6:
-Posição: linhas 203 a 247;
+Posição: linhas 212 a 256;
 Intrução: mudar a const ex6Ligado para true na linha 7;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;
 
 Exercício 7:
-Posição: linhas 249 a 274;
+Posição: linhas 258 a 283;
 Intrução: mudar a const ex7Ligado para true na linha 8;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;
 
 Exercício 8:
-Posição: linhas 276 a 302;
+Posição: linhas 285 a 311;
 Intrução: mudar a const ex8Ligado para true na linha 9;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;
 
 Exercício 9:
-Posição: linhas 304 a 363;
+Posição: linhas 313 a 372;
 Intrução: mudar a const ex9Ligado para true na linha 10;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;
 
 Exercício 10:
-Posição: linhas 365 a 383;
+Posição: linhas 374 a 392;
 Intrução: mudar a const ex10Ligado para true na linha 11;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;;
 
 Exercício 11:
-Posição: linhas 385 a 409;
+Posição: linhas 394 a 418;
 Intrução: mudar a const ex11Ligado para true na linha 12;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;;
 
 Exercício 12:
-Posição: linhas 411 a 422;
+Posição: linhas 420 a 431;
 Intrução: mudar a const ex12Ligado para true na linha 13;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;;
 
 Exercício 13:
-Posição: linhas 424 a 444;
+Posição: linhas 433 a 453;
 Intrução: mudar a const ex13Ligado para true na linha 14;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;;
 
 Exercício 14:
-Posição: linhas 446 a 473;
+Posição: linhas 455 a 482;
 Intrução: mudar a const ex14Ligado para true na linha 15;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;;
 
 Exercício 15:
-Posição: linhas 475 a 509;
+Posição: linhas 484 a 518;
 Intrução: mudar a const ex15Ligado para true na linha 16;
 Rodar o exercício;
 Desfazer mudanças para o próximo exercício;
 
 Exercício 16:
-Posição: linhas 511 a 535;
+Posição: linhas 520 a 544;
 Intrução: mudar a const ex16Ligado para true na linha 17;
 Rodar o exercício;
 Desfazer mudanças;

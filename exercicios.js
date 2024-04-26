@@ -1,5 +1,5 @@
 // Leia as instruções no arquivo README.md para execução de cada exercicio. Basicamente escolha true para ligar o exercício nas variáveis abaixo, apenas um exercício pode ser ligado por vez (encadeamento de if else, então sempre o primeiro operará em dentrimento dos outros);
-const ex1Ligado = true;
+const ex1Ligado = false;
 const ex2Ligado = false;
 const ex3Ligado = false;
 const ex4Ligado = false;
@@ -522,19 +522,19 @@ else if (ex16Ligado) {
 	let numero = 100;
 	// let condicaoQueNaoPara = true;
 	let contador = 0;
-	let contador2;
+	let verificador = true;
 	while (contador < 50) {
 		let raiz = parseInt(numero ** 0.5);
 		// console.log(raiz);
-		contador2 = 0;
-		while (raiz > 0) {
+		verificador = true;
+		while (raiz > 1) {
 			if (numero % raiz == 0) {
-				contador2++;
+				verificador = false;
 				break;
 			}
 			raiz--;
 		}
-		if (contador2 == 1 && raiz == 1) {
+		if (verificador) {
 			console.log(numero);
 			contador++;
 		}
